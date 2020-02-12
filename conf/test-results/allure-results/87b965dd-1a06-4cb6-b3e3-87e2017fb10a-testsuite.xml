@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1511214502807" stop="1511214514031">
+	<name>Acumen Login page Detailed Test</name>
+	<title>Acumen Login page Detailed Test</title>
+	<test-cases>
+		<test-case start="1511214502807" stop="1511214514029" status="passed">
+			<name>AC - 59 Login with incorrect credentials (Error conditions)</name>
+			<title>AC - 59 Login with incorrect credentials (Error conditions)</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="64037891-8f8e-49a6-8fb4-f57c0664c026-attachment.png" type="image/png" size="9183"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

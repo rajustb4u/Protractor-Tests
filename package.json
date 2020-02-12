@@ -1,0 +1,24 @@
+{
+  "name": "acumen-automated-BDD-E2E-tests",
+  "description": "Acumen Protractor E2E Regression Test Automation",
+  "main": "config-ContinuousIntegration.js",
+  "author": {
+    "name": "Rajan",
+    "email": "rmenda@opaqnetworks.com"
+  },
+  "devDependencies": {
+    "jasmine-reporters": "2.2.1",
+    "winston": "2.3.1",
+    "jasmine-allure-reporter": "1.0.1",
+    "path": "0.12.7",
+    "promise": "8.0.0",
+    "protractor": "5.1.2",
+    "phantomjs-prebuilt": "2.1.14",
+    "nodemailer":"4.0.1",
+    "util":"0.10.3",
+    "child_process":"1.0.2"
+  },
+  "dependencies": {
+    "protractor": "^5.1.2"
+  }
+}

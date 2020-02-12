@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1511213853938" stop="1511213860390">
+	<name>Acumen Login page Detailed Test</name>
+	<title>Acumen Login page Detailed Test</title>
+	<test-cases>
+		<test-case start="1511213853938" stop="1511213860390" status="passed">
+			<name>AC - 60 Login Page UI Check</name>
+			<title>AC - 60 Login Page UI Check</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="857b4fcb-92c6-45bb-b743-2376aecfecc2-attachment.png" type="image/png" size="20332"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

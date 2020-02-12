@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1511214514036" stop="1511214536247">
+	<name>Acumen Login page Detailed Test</name>
+	<title>Acumen Login page Detailed Test</title>
+	<test-cases>
+		<test-case start="1511214514036" stop="1511214531011" status="passed">
+			<name>AC - 1055 Login FE Validation</name>
+			<title>AC - 1055 Login FE Validation</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="7fcf1337-abf7-4921-8fa7-9b54572a94cb-attachment.png" type="image/png" size="19609"/>
+			</attachments>
+		</test-case>
+		<test-case start="1511214531011" stop="1511214536247" status="passed">
+			<name>AC - 1643 Logout Acumen App: </name>
+			<title>AC - 1643 Logout Acumen App: </title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="3325ae10-3ec3-4de3-875a-2337f34d8034-attachment.png" type="image/png" size="20332"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

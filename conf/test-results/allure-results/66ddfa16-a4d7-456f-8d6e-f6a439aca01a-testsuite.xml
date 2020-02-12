@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1511214300415" stop="1511214336624">
+	<name>Acumen Login page Detailed Test</name>
+	<title>Acumen Login page Detailed Test</title>
+	<test-cases>
+		<test-case start="1511214300415" stop="1511214309011" status="passed">
+			<name>AC - 1641 Profile Top Right Global Admin Validation: </name>
+			<title>AC - 1641 Profile Top Right Global Admin Validation: </title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="aa27ee5f-3ff6-4276-b180-c29d4a91ac60-attachment.png" type="image/png" size="20332"/>
+			</attachments>
+		</test-case>
+		<test-case start="1511214309011" stop="1511214336622" status="passed">
+			<name>AC - 1641 Profile Top Right Support Admin Validation: </name>
+			<title>AC - 1641 Profile Top Right Support Admin Validation: </title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="1a874b2f-fd5c-4069-9ce5-1494cda3cea2-attachment.png" type="image/png" size="20332"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>
